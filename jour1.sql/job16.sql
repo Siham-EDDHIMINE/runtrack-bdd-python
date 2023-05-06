@@ -1,0 +1,1 @@
+WHERE nom = 'Spaghetti' AND prenom = 'Betty';
